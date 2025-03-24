@@ -6,5 +6,6 @@ int main(){
    i=r+q;
    m=6;
    p=5;
+   i=0;
    return 0;
 }
